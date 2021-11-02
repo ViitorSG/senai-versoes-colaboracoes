@@ -1,0 +1,26 @@
+body{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+.departamentos .linkDepartamentos{
+    text-decoration: none;
+    margin: 20px 10px 10px;
+    text-transform: uppercase;
+    color: white;
+    font-weight: bolder;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.fundo {width: 1920px; height: 62px; background-color:rgb(0, 96, 177);}
+
+.fundoHd {width: 1920px; height: 161px; background-color:rgb(0, 96, 177);}
+
+.menu .menus{
+    text-decoration: none;
+    margin: 20px 10px 0px;
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif; 
+}
